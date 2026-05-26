@@ -94,6 +94,7 @@ export default function BrandDetailPage() {
           </motion.div>
 
           {/* Website */}
+          {brand.website && (
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -113,6 +114,7 @@ export default function BrandDetailPage() {
               </svg>
             </a>
           </motion.div>
+          )}
 
           {/* Related Styles */}
           {relatedStyles.length > 0 && (

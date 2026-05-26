@@ -7,7 +7,10 @@
     "priceRange": "high",
     "website": "https://www.angelicpretty.com",
     "description": "Sweet Lolita 的代表品牌，以甜美梦幻的设计著称。标志性的粉色系、大量蕾丝和童话般印花，是许多 Lolita 新人入门的第一选择。其「Fantastic Dolly」和「Milky Planet」系列深受追捧。",
-    "styleIds": ["sweet", "hime"],
+    "styleIds": [
+      "sweet",
+      "hime"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1583496661160-658aa1103c9b?w=600",
     "foundedYear": 1979
@@ -20,7 +23,11 @@
     "priceRange": "high",
     "website": "https://www.babyssb.co.jp",
     "description": "简称 BABY，与 Angelic Pretty 并称 Sweet Lolita 双璧。设计以华丽甜美为主，同时拥有「Alice and the Pirates」子品牌覆盖 Gothic/Classic 路线。2004 年因电影《下妻物语》而全球走红。",
-    "styleIds": ["sweet", "classic", "sailor"],
+    "styleIds": [
+      "sweet",
+      "classic",
+      "sailor"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=600",
     "foundedYear": 1988
@@ -33,7 +40,12 @@
     "priceRange": "mid",
     "website": "https://www.metamorphose.gr.jp",
     "description": "简称 Meta，以多样的风格覆盖著称——从 Sweet 到 Wa 和风系列都有尝试。设计更注重创意和故事性，价格相对亲民，在日本国内外都有忠实粉丝。",
-    "styleIds": ["sweet", "wa", "sailor", "classic"],
+    "styleIds": [
+      "sweet",
+      "wa",
+      "sailor",
+      "classic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600",
     "foundedYear": 1997
@@ -46,7 +58,10 @@
     "priceRange": "high",
     "website": "https://moi-meme-moitie.com",
     "description": "由视觉系音乐人 Mana 于 1999 年创立，是 Gothic Lolita 的奠基品牌。以黑/白/蓝为主色，设计优雅冷艳。「Elegant Gothic Lolita」和「Elegant Gothic Aristocrat」两条线定义了哥特系美学。",
-    "styleIds": ["gothic", "classic"],
+    "styleIds": [
+      "gothic",
+      "classic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1509669803555-84e5f0473006?w=600",
     "foundedYear": 1999
@@ -57,9 +72,13 @@
     "type": "major",
     "country": "jp",
     "priceRange": "high",
-    "website": "https://www.atelier-pierrot.jp",
+    "website": "https://atelier-pierrot.jp",
     "description": "以 Gothic 和 Classic 风格为主，设计偏向成熟优雅。大量使用深色系和高品质面料，印花常带有古典文学和宗教元素，适合追求深沉气质的穿着者。",
-    "styleIds": ["gothic", "classic", "steampunk"],
+    "styleIds": [
+      "gothic",
+      "classic",
+      "steampunk"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?w=600",
     "foundedYear": 1990
@@ -70,9 +89,14 @@
     "type": "major",
     "country": "jp",
     "priceRange": "high",
-    "website": "https://www.babyssb.co.jp/aatp",
+    "website": "https://www.babyssb.co.jp",
     "description": "BABY 旗下子品牌，以海盗、冒险、奇幻文学为主题。设计融合 Gothic、Punk、Steampunk 元素，色调比主品牌更暗、更硬朗，深受 Gothic 和 Ouji 爱好者喜爱。",
-    "styleIds": ["gothic", "steampunk", "punk", "ouji"],
+    "styleIds": [
+      "gothic",
+      "steampunk",
+      "punk",
+      "ouji"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1559564477-79e89eac8bb9?w=600",
     "foundedYear": 2004
@@ -85,7 +109,11 @@
     "priceRange": "mid",
     "website": "https://innocent-w.jp",
     "description": "Classic Lolita 的标杆品牌之一，以简约优雅的设计见长。善用格纹、条纹和低调印花，色彩沉稳不浮夸，是追求「大人可爱」风格的首选。",
-    "styleIds": ["classic", "country", "casual"],
+    "styleIds": [
+      "classic",
+      "country",
+      "casual"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1568252542512-2fe77ad56e0a?w=600",
     "foundedYear": 1998
@@ -98,7 +126,10 @@
     "priceRange": "luxury",
     "website": "https://juliette-et-justine.com",
     "description": "高端 Classic Lolita 品牌，以精美的古典油画印花闻名。每一款设计都堪称艺术品，价格不菲但工艺精湛。印花多取材于古典名画、神话题材和自然风景。",
-    "styleIds": ["classic", "hime"],
+    "styleIds": [
+      "classic",
+      "hime"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=600",
     "foundedYear": 2007
@@ -111,7 +142,10 @@
     "priceRange": "luxury",
     "website": "https://www.marymagdalene.jp",
     "description": "以极致优雅的 Classic Lolita 著称，设计极简却不失华丽。裙摆线条流畅，面料考究，是「看起来像贵族日常穿着」的品牌代表，深受成熟女性喜爱。",
-    "styleIds": ["classic", "hime"],
+    "styleIds": [
+      "classic",
+      "hime"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1523363523513-69a24e2e77e5?w=600",
     "foundedYear": 2000
@@ -122,9 +156,12 @@
     "type": "major",
     "country": "jp",
     "priceRange": "mid",
-    "website": "https://putumayo.jp",
+    "website": "",
     "description": "Punk Lolita 和 Rock Lolita 的代表品牌，以铆钉、格纹、不对称裁剪等元素打造叛逆风格。剪裁利落，配色大胆，在 Lolita 品牌中独树一帜。",
-    "styleIds": ["punk", "gothic"],
+    "styleIds": [
+      "punk",
+      "gothic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1558769132-cb645be0b7c3?w=600",
     "foundedYear": 2000
@@ -135,9 +172,12 @@
     "type": "major",
     "country": "jp",
     "priceRange": "luxury",
-    "website": "https://jesusdiamante.com",
+    "website": "",
     "description": "Hime Lolita 的巅峰品牌，以极致的华丽为追求。大量使用珍珠、宝石装饰，裙摆层层叠叠，头冠大而精美。每一件作品都像是参加皇家舞会的礼服。",
-    "styleIds": ["hime", "classic"],
+    "styleIds": [
+      "hime",
+      "classic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1544027993-7097a8a6c19b?w=600",
     "foundedYear": 2001
@@ -150,7 +190,10 @@
     "priceRange": "luxury",
     "website": "https://excentrique.jp",
     "description": "独立高端品牌，专精于 Gothic 和 EGA（Elegant Gothic Aristocrat）路线。设计融合维多利亚丧服美学和高级定制工艺，产量极低但每件都是收藏品。",
-    "styleIds": ["gothic", "classic"],
+    "styleIds": [
+      "gothic",
+      "classic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600",
     "foundedYear": 2005
@@ -161,9 +204,13 @@
     "type": "indie",
     "country": "cn",
     "priceRange": "mid",
-    "website": "https://gudongwanou.taobao.com",
+    "website": "",
     "description": "中国 Lolita 品牌的先驱之一，以 Qi Lolita 和华丽 Classic 风格见长。设计善于融合中华传统元素，盘扣、刺绣、云锦等工艺精湛，在国内外展会上屡获好评。",
-    "styleIds": ["qi", "classic", "hime"],
+    "styleIds": [
+      "qi",
+      "classic",
+      "hime"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=600",
     "foundedYear": 2012
@@ -174,9 +221,13 @@
     "type": "indie",
     "country": "cn",
     "priceRange": "budget",
-    "website": "https://infanta.taobao.com",
+    "website": "",
     "description": "高性价比入门级国牌，以 Sweet 和 Casual 路线为主。设计甜美可爱，价格亲民，是很多中国 Lolita 新人入门的第一选择。产品线丰富，更新速度快。",
-    "styleIds": ["sweet", "casual", "country"],
+    "styleIds": [
+      "sweet",
+      "casual",
+      "country"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1583496661160-658aa1103c9b?w=600",
     "foundedYear": 2013
@@ -187,9 +238,13 @@
     "type": "indie",
     "country": "cn",
     "priceRange": "mid",
-    "website": "https://zuoeryue.taobao.com",
+    "website": "",
     "description": "以精致 Qi Lolita 和 Wa Lolita 著称，设计注重东方美学的当代演绎。善于使用刺绣、提花等传统工艺，产品质感超越价位预期。",
-    "styleIds": ["qi", "wa", "classic"],
+    "styleIds": [
+      "qi",
+      "wa",
+      "classic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1544027993-7097a8a6c19b?w=600",
     "foundedYear": 2015
@@ -200,9 +255,12 @@
     "type": "indie",
     "country": "cn",
     "priceRange": "budget",
-    "website": "https://magicalfashion.taobao.com",
+    "website": "",
     "description": "设计风格活泼多样，从 Sweet 到 Casual 都有覆盖。以可爱的猫咪元素和趣味印花为特色，价格友好，深受学生群体欢迎。",
-    "styleIds": ["sweet", "casual"],
+    "styleIds": [
+      "sweet",
+      "casual"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1583496661160-658aa1103c9b?w=600",
     "foundedYear": 2016
@@ -213,9 +271,13 @@
     "type": "indie",
     "country": "cn",
     "priceRange": "budget",
-    "website": "https://pingguosenlin.taobao.com",
+    "website": "",
     "description": "以 Country Lolita 和 Casual 风格为主，设计充满田园诗意。碎花、格纹、棉麻面料是标志元素，整体风格清新自然，适合春秋日常穿着。",
-    "styleIds": ["country", "casual", "classic"],
+    "styleIds": [
+      "country",
+      "casual",
+      "classic"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1523363523513-69a24e2e77e5?w=600",
     "foundedYear": 2017
@@ -226,9 +288,13 @@
     "type": "indie",
     "country": "cn",
     "priceRange": "high",
-    "website": "https://lyreivy.taobao.com",
+    "website": "",
     "description": "高端国牌，专精于 Classic Lolita 和 Qi Lolita。设计追求博物馆级别的工艺水准，刺绣精美、面料考究，是国牌中的收藏级品牌。",
-    "styleIds": ["classic", "qi", "hime"],
+    "styleIds": [
+      "classic",
+      "qi",
+      "hime"
+    ],
     "logoUrl": "",
     "imageUrl": "https://images.unsplash.com/photo-1568252542512-2fe77ad56e0a?w=600",
     "foundedYear": 2014
