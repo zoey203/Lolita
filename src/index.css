@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-rose-50: #FFFBF0;
+  --color-rose-100: #FEF3E4;
+  --color-rose-200: #FDE4C8;
+  --color-rose-300: #FBC59C;
+  --color-rose-400: #F8A06E;
+  --color-rose-500: #F57B41;
+  --color-rose-600: #E05B2A;
+  --color-rose-700: #BA4424;
+  --color-rose-800: #953722;
+  --color-rose-900: #782F1F;
+
+  --color-cream: #FFFBF0;
+  --color-wine: #9D174D;
+  --color-wine-light: #BE185D;
+  --color-gold: #D4A574;
+  --color-gold-light: #E8D5B7;
+
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Noto Sans SC', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-cream);
+  color: #4A3728;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

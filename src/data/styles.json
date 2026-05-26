@@ -1,0 +1,459 @@
+[
+  {
+    "id": "sweet",
+    "name": "Sweet Lolita",
+    "nameZh": "甜美洛丽塔",
+    "description": "最广为人知的 Lolita 风格，以粉嫩色系、糖果甜点元素和大量蕾丝荷叶边为标志，营造出洋娃娃般的梦幻少女感。",
+    "history": "Sweet Lolita 在 1990 年代后期逐渐从 Lolita 时尚中分化出来，受到昭和复古风和洋娃娃文化的强烈影响。品牌 Angelic Pretty 和 BABY 的推动使其成为 2000 年代最具代表性的风格。",
+    "characteristics": [
+      "粉色、淡紫、薄荷绿等柔和马卡龙色系",
+      "大量蕾丝、荷叶边、蝴蝶结装饰",
+      "糖果、草莓、蛋糕、兔子等甜美印花",
+      "蓬松的钟形裙摆",
+      "及膝袜搭配圆头玛丽珍鞋",
+      "双马尾或卷发配大蝴蝶结头饰"
+    ],
+    "colorPalette": [
+      "#F9A8D4",
+      "#FDE4F0",
+      "#E8D5F5",
+      "#D4F1E8",
+      "#FEF3C7",
+      "#FFFFFF"
+    ],
+    "commonMotifs": [
+      "草莓",
+      "糖果",
+      "丝带",
+      "樱桃",
+      "兔子",
+      "爱心",
+      "星星",
+      "茶杯",
+      "蛋糕"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sweet_Lolita_Style_Women.jpg?width=600",
+    "substyleIds": [
+      "classic",
+      "gothic",
+      "country"
+    ]
+  },
+  {
+    "id": "classic",
+    "name": "Classic Lolita",
+    "nameZh": "古典洛丽塔",
+    "description": "以优雅成熟的维多利亚风格为基调，使用沉稳的暖色系与花卉印花，比 Sweet 更内敛、更接近传统贵族淑女的气质。",
+    "history": "Classic Lolita 最早可追溯到 Lolita 时尚的起源——维多利亚风格和洛可可艺术的影响。品牌如 Innocent World、Juliette et Justine 和 Mary Magdalene 专注于这一风格。",
+    "characteristics": [
+      "酒红、墨绿、藏蓝、米白等沉稳色系",
+      "花卉、油画、古董纹样印花",
+      "A 字裙型多于钟形裙",
+      "较少使用印花而更注重面料质感",
+      "复古珍珠、玫瑰胸针配饰",
+      "低马尾或盘发，配饰简洁优雅"
+    ],
+    "colorPalette": [
+      "#9D174D",
+      "#1A472A",
+      "#3B2F2F",
+      "#FFFBF0",
+      "#8B6914",
+      "#D4C5B9"
+    ],
+    "commonMotifs": [
+      "玫瑰",
+      "百合",
+      "古典油画",
+      "竖琴",
+      "珍珠",
+      "皇冠",
+      "古董钟表",
+      "城堡"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Classicloli.JPG?width=600",
+    "substyleIds": [
+      "sweet",
+      "hime",
+      "country"
+    ]
+  },
+  {
+    "id": "gothic",
+    "name": "Gothic Lolita",
+    "nameZh": "哥特洛丽塔",
+    "description": "融合了哥特文化的暗黑美学与 Lolita 的优雅廓形，以黑色为主调，搭配十字架、蝙蝠等暗黑元素，营造神秘高贵的气质。",
+    "history": "1990 年代末由品牌 Moi-même-Moitié 的创立者 Mana（视觉系乐队 Malice Mizer 的吉他手）率先确立，将哥特音乐/时尚与 Lolita 廓形融合。",
+    "characteristics": [
+      "黑色、深紫、酒红、深蓝等暗色主导",
+      "十字架、蝙蝠、蔷薇、棺材等哥特印花",
+      "蕾丝与皮革的材质混搭",
+      "黑色眼线和深色唇妆",
+      "搭配黑色长手套和面纱",
+      "十字架、蝙蝠项链等银饰"
+    ],
+    "colorPalette": [
+      "#1A1A2E",
+      "#4A0E2E",
+      "#2D1B3E",
+      "#000000",
+      "#6B0000",
+      "#C0C0C0"
+    ],
+    "commonMotifs": [
+      "十字架",
+      "蝙蝠",
+      "黑白蔷薇",
+      "蜘蛛网",
+      "城堡剪影",
+      "教堂彩窗",
+      "古书"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_school_gothic_lolita_fashion.jpg?width=600",
+    "substyleIds": [
+      "classic",
+      "punk"
+    ]
+  },
+  {
+    "id": "hime",
+    "name": "Hime Lolita",
+    "nameZh": "姬洛丽塔",
+    "description": "意为「公主洛丽塔」，追求极致的华丽与高贵，使用大量珠宝装饰、大型头冠和蓬松大裙摆，如同从童话中走出的公主。",
+    "history": "Hime 风格由品牌 Jesus Diamante 在 2000 年代中期推广，强调王妃般的优雅。造型通常采用蓬松大卷发和华丽王冠头饰。",
+    "characteristics": [
+      "珠光白、玫瑰粉、皇家蓝等华丽色彩",
+      "大型皇冠或蝴蝶结头饰",
+      "蓬松卷发造型（Hime 卷）",
+      "裙摆极大且层次丰富",
+      "大量珍珠、水钻装饰",
+      "搭配细高跟鞋"
+    ],
+    "colorPalette": [
+      "#FFFBF0",
+      "#FCE4EC",
+      "#E8D5F5",
+      "#D4E5F7",
+      "#FFD700",
+      "#C0A0B0"
+    ],
+    "commonMotifs": [
+      "皇冠",
+      "珍珠",
+      "钻石",
+      "玫瑰",
+      "天鹅",
+      "宫廷花纹",
+      "羽毛",
+      "蝴蝶结"
+    ],
+    "imageUrl": "",
+    "substyleIds": [
+      "classic",
+      "sweet"
+    ]
+  },
+  {
+    "id": "country",
+    "name": "Country Lolita",
+    "nameZh": "田园洛丽塔",
+    "description": "融合田园风格与 Lolita 廓形，以碎花、格纹和草编元素为标志，营造出自然清新的乡村少女气息。",
+    "history": "田园风格在 Lolita 时尚中一直存在，但作为独立分类在 2000 年代逐渐成型。BABY 和 Angelic Pretty 的田园系列深受欢迎。",
+    "characteristics": [
+      "碎花、格纹、波点等田园纹样",
+      "草编包和草帽配饰",
+      "棉麻等天然面料的大量使用",
+      "淡黄、浅蓝、草绿等自然色",
+      "搭配平底鞋或小坡跟",
+      "麻花辫或自然垂发"
+    ],
+    "colorPalette": [
+      "#FDE68A",
+      "#A8D8B9",
+      "#87CEEB",
+      "#FFFBF0",
+      "#D4A574",
+      "#E8C5A0"
+    ],
+    "commonMotifs": [
+      "雏菊",
+      "草莓",
+      "格纹",
+      "鸟笼",
+      "野花",
+      "苹果",
+      "蝴蝶",
+      "麦穗"
+    ],
+    "imageUrl": "",
+    "substyleIds": [
+      "classic",
+      "sweet"
+    ]
+  },
+  {
+    "id": "punk",
+    "name": "Punk Lolita",
+    "nameZh": "朋克洛丽塔",
+    "description": "将朋克元素（铆钉、格纹、链条）与 Lolita 廓形大胆融合，在甜美中注入叛逆个性，打破 Lolita 的传统甜美感。",
+    "history": "受 Vivienne Westwood 和英伦朋克影响，Punk Lolita 在 2000 年代由 Putumayo 等品牌推广，吸引追求个性表达的 Lolita 爱好者。",
+    "characteristics": [
+      "黑白格纹、红黑配色为主",
+      "铆钉、链条、拉链等金属元素",
+      "不规则裙摆和破坏感设计",
+      "搭配马丁靴或厚底鞋",
+      "不对称发型和挑染",
+      "苏格兰格纹的使用"
+    ],
+    "colorPalette": [
+      "#FF0000",
+      "#000000",
+      "#FFFFFF",
+      "#808080",
+      "#DC143C",
+      "#2F2F2F"
+    ],
+    "commonMotifs": [
+      "格纹",
+      "铆钉",
+      "拉链",
+      "安全别针",
+      "星形",
+      "骷髅",
+      "锁链",
+      "Union Jack"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Punk_Lolita,_V&A_Museum.JPG?width=600",
+    "substyleIds": [
+      "gothic"
+    ]
+  },
+  {
+    "id": "sailor",
+    "name": "Sailor Lolita",
+    "nameZh": "水手洛丽塔",
+    "description": "以海军水手服为灵感，融入船锚、条纹、领结等航海元素，营造清爽活泼的海洋少女风格。",
+    "history": "Sailor 风格深受日本校服文化（セーラー服）和海洋文化的影响，BABY 和 Metamorphose 等品牌都有经典的水手系列。",
+    "characteristics": [
+      "海军蓝、白色、红色海军三色",
+      "水手领和领结/领巾",
+      "条纹和船锚印花",
+      "双排金扣装饰",
+      "搭配及膝白袜",
+      "船长帽或水手帽头饰"
+    ],
+    "colorPalette": [
+      "#1E3A5F",
+      "#FFFFFF",
+      "#CC0000",
+      "#FFD700",
+      "#87CEEB",
+      "#F5F5DC"
+    ],
+    "commonMotifs": [
+      "船锚",
+      "船轮",
+      "海鸥",
+      "灯塔",
+      "贝壳",
+      "条纹",
+      "绳结",
+      "航海旗"
+    ],
+    "imageUrl": "",
+    "substyleIds": [
+      "sweet",
+      "classic"
+    ]
+  },
+  {
+    "id": "wa",
+    "name": "Wa Lolita",
+    "nameZh": "和风洛丽塔",
+    "description": "将日本传统和服元素与 Lolita 廓形融合，使用樱花、鹤、扇等和风纹样，体现大和之美。",
+    "history": "Wa Lolita 诞生于对日本传统文化的自豪感，品牌如 Metamorphose 和 BABY 都推出过和风系列。浴衣（夏季和服）的元素常被融入设计中。",
+    "characteristics": [
+      "和服面料（缩缅、友禅）的使用",
+      "樱花、鹤、扇子、浪花等和风印花",
+      "宽腰带（obi）元素融入腰线设计",
+      "红色和黑色搭配金线刺绣",
+      "木屐式松糕鞋或草履风凉鞋",
+      "发簪和头花等日式头饰"
+    ],
+    "colorPalette": [
+      "#DC143C",
+      "#000000",
+      "#FFD700",
+      "#FFFFFF",
+      "#8B0000",
+      "#DAA520"
+    ],
+    "commonMotifs": [
+      "樱花",
+      "仙鹤",
+      "扇子",
+      "浪花",
+      "菊纹",
+      "红日",
+      "金鱼",
+      "鸟居"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lolita_fashion_at_NCCBF_2010-04-18.JPG?width=600",
+    "substyleIds": [
+      "classic",
+      "qi"
+    ]
+  },
+  {
+    "id": "qi",
+    "name": "Qi Lolita",
+    "nameZh": "中华风洛丽塔",
+    "description": "融入中国传统旗袍、汉服元素，使用盘扣、立领、云纹等中华风设计细节，展现东方古典韵味。",
+    "history": "Qi Lolita 源于对中国传统服饰的致敬，近年来随着中国 Lolita 品牌崛起而快速发展。国牌如古典玩偶、Angelic Pretty × 中国限定等极大推动了这个风格。",
+    "characteristics": [
+      "旗袍领（立领）和盘扣设计",
+      "龙凤、牡丹、祥云等中华纹样",
+      "红色和金色为主调",
+      "流苏、玉佩等中式配饰",
+      "丝绸和织锦面料的使用",
+      "中式发髻配发簪或步摇"
+    ],
+    "colorPalette": [
+      "#DC143C",
+      "#FFD700",
+      "#000000",
+      "#E8D5B7",
+      "#8B0000",
+      "#00FF00"
+    ],
+    "commonMotifs": [
+      "龙凤",
+      "牡丹",
+      "祥云",
+      "如意",
+      "折扇",
+      "灯笼",
+      "梅花",
+      "锦鲤"
+    ],
+    "imageUrl": "",
+    "substyleIds": [
+      "wa",
+      "classic"
+    ]
+  },
+  {
+    "id": "steampunk",
+    "name": "Steampunk Lolita",
+    "nameZh": "蒸汽朋克洛丽塔",
+    "description": "融合维多利亚时代的蒸汽朋克美学，齿轮、怀表、皮革、金属等元素与 Lolita 廓形结合，营造工业革命时代的奇幻感。",
+    "history": "Steampunk Lolita 受蒸汽朋克文化（Jules Verne、H.G. Wells 等作家影响）启发，品牌如 Atelier Pierrot 和 Alice and the Pirates 有诸多经典作品。",
+    "characteristics": [
+      "棕色、铜色、古铜金等工业色系",
+      "齿轮、怀表、钥匙等机械印花",
+      "皮质束腰和背带元素",
+      "高帽和护目镜配饰",
+      "钟表图案的频繁使用",
+      "多层裙摆和不对称设计"
+    ],
+    "colorPalette": [
+      "#8B6914",
+      "#5C4033",
+      "#D4A574",
+      "#2F2F2F",
+      "#B8860B",
+      "#CD853F"
+    ],
+    "commonMotifs": [
+      "齿轮",
+      "怀表",
+      "钥匙",
+      "飞艇",
+      "地图",
+      "指南针",
+      "鸟笼",
+      "钟表"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Steampunk_Lolita_ensemble,_h.NAOTO,_Honolulu_Museum_of_Art.JPG?width=600",
+    "substyleIds": [
+      "gothic",
+      "classic"
+    ]
+  },
+  {
+    "id": "casual",
+    "name": "Casual Lolita",
+    "nameZh": "日常洛丽塔",
+    "description": "降低 Lolita 的华丽度以适合日常穿着，保留核心廓形但减少裙撑体积和装饰复杂度，是入门和通勤的友好选择。",
+    "history": "Casual Lolita 是为回应'Lolita 太夸张无法日常穿'的批评而发展的风格，强调可穿性。低腰（low-waist）设计和简约裁剪的 JSK 是标志。",
+    "characteristics": [
+      "简化装饰，少蕾丝、少印花",
+      "使用日常面料如针织、棉布",
+      "低调的纯色或简单条纹",
+      "裙摆体积明显减小",
+      "搭配日常鞋履",
+      "简约发带或无头饰"
+    ],
+    "colorPalette": [
+      "#FFFBF0",
+      "#D4C5B9",
+      "#A8B5C0",
+      "#C8B8D0",
+      "#E8D5B7",
+      "#B8C8B0"
+    ],
+    "commonMotifs": [
+      "简约条纹",
+      "波点",
+      "纯色",
+      "小碎花",
+      "格子",
+      "学院徽章"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Lolita_2007.jpg?width=600",
+    "substyleIds": [
+      "classic",
+      "sweet",
+      "country"
+    ]
+  },
+  {
+    "id": "ouji",
+    "name": "Ouji / Kodona",
+    "nameZh": "王子系 / 少年风",
+    "description": "Lolita 时尚的男装对应风格，以短裤、马裤、及膝袜、王子外套为标志，打造少年王子的优雅帅气形象。",
+    "history": "Ouji（王子）风格与 Lolita 同时期出现，共享相同的维多利亚灵感来源。品牌如 Alice and the Pirates 和 Atelier Boz 专注于这个领域。",
+    "characteristics": [
+      "及膝短裤或马裤",
+      "王子风双排扣外套",
+      "及膝长袜或过膝袜",
+      "领巾、领结、袋巾等绅士配饰",
+      "高礼帽或贝雷帽",
+      "深色系为主，少用粉嫩色"
+    ],
+    "colorPalette": [
+      "#1A1A2E",
+      "#2F4F4F",
+      "#8B0000",
+      "#FFFFFF",
+      "#4A3728",
+      "#D4A574"
+    ],
+    "commonMotifs": [
+      "皇冠",
+      "剑",
+      "军装扣",
+      "玫瑰花",
+      "怀表",
+      "书本",
+      "羽毛笔",
+      "独角兽"
+    ],
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Classicloli.JPG?width=600",
+    "substyleIds": [
+      "gothic",
+      "classic",
+      "steampunk"
+    ]
+  }
+]
